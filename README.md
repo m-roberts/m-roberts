@@ -17,4 +17,4 @@ All of the software that I work on for pi-topOS is open source! This includes al
 A personal goal of mine is to continue to develop the tools that have been used to create pi-topOS into a suite of tools that can be used to easily manage a custom Raspberry Pi-based OS.
 
 #### User Stats
-![](https://raw.githubusercontent.com/m-roberts/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/m-roberts/github-stats/master/generated/languages.svg) ![](http://github-readme-streak-stats.herokuapp.com?user=m-roberts)
+![](https://raw.githubusercontent.com/m-roberts/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/m-roberts/github-stats/master/generated/languages.svg)
