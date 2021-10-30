@@ -2,7 +2,7 @@
 
 I'm Mike and I'm based in Bristol, UK.
 
-Ccurrently working as Technical Lead for pi-topOS, the Raspberry Pi OS-based operating system for pi-tops.
+Currently working as Technical Lead for pi-topOS, the Raspberry Pi OS-based operating system for pi-tops.
 
 I am an open-source contributor with a passion for developing novel solutions to real world problems.
 
