@@ -1,7 +1,5 @@
 ### 👋 Hi there
 
-![](https://media.discordapp.net/attachments/976997386436104202/1017535535671169094/0xVizulize_software_computer_progammer_wizard_alchemist_conjuri_5f6c2e19-38ca-4218-a5f2-b451281c6a13.png)
-
 I am a multi-disciplinary creator 👨‍🎨👷‍♂️ based in Bristol 🇬🇧.
 
 I love opportunities for new challenges 💪 & continuous learning 📚 whilst building creative technology solutions that empower people 🌱 & enrich their lives ✨.
