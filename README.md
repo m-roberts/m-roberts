@@ -1,18 +1,28 @@
 ### 👋 Hi there
 
-I am a multi-disciplinary creator based in Bristol, UK.
+![](https://media.discordapp.net/attachments/976997386436104202/1017535535671169094/0xVizulize_software_computer_progammer_wizard_alchemist_conjuri_5f6c2e19-38ca-4218-a5f2-b451281c6a13.png)
 
-For 6+ years, I worked as Technical Lead for pi-topOS, the Raspberry Pi OS-based operating system for pi-tops.
+I am a multi-disciplinary creator 👨‍🎨👷‍♂️ based in Bristol 🇬🇧.
 
-I am an open-source contributor with a passion for developing novel solutions to real world problems.
+I love opportunities for new challenges 💪 & continuous learning 📚 whilst building creative technology solutions that empower people 🌱 & enrich their lives ✨.
 
-My primary programming language in this role is Python, though I have experience with C/C++ (embedded and using high-level APIs such as Qt) as well as shell scripting.
+![](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)
 
-I am interested in broadening my programming experience into web technologies.
+🐍 Python
+🥧 Raspberry Pi
+🖨 3D Printing
+⏩ Technical Leadership
+🌱 Startups
+📝 Freelancing/Contracting
+📖 Open Source
+
+🏗️ I like to contribute to OSS projects and publish OSS packages as well.
+
+If they are helpful to you, please do consider [sponsoring me](https://github.com/sponsors/m-roberts)!
 
 #### pi-topOS
 
-All of the software that I worked on for pi-topOS is open source! This includes all workflows aorund software building and distribution.
+My most significant project contributions to date are undoubtedly those produced as part of pi-topOS. All of the software that I worked on for pi-topOS is open source! This includes all workflows around software building & distribution.
 
 A personal goal of mine is to continue to develop the tools that have been used to create pi-topOS into a suite of tools that can be used to easily manage a custom Raspberry Pi-based OS.
 
