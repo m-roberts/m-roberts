@@ -20,9 +20,9 @@ If they are helpful to you, please do consider [sponsoring me](https://github.co
 
 #### pi-topOS
 
-My most significant project contributions to date are undoubtedly those produced as part of pi-topOS. All of the software that I worked on for pi-topOS is open source! This includes all workflows around software building & distribution.
+My most significant project contributions to date are undoubtedly those [produced as part of pi-topOS](https://github.com/search?q=topic%3Api-topos+org%3Api-top&type=Repositories). All of the software that I worked on for pi-topOS is open source! This includes all workflows around software building & distribution.
 
-A personal goal of mine is to continue to develop the tools that have been used to create pi-topOS into a suite of tools that can be used to easily manage a custom Raspberry Pi-based OS.
+<!-- A personal goal of mine is to continue to develop the tools that have been used to create pi-topOS into a suite of tools that can be used to easily manage a custom Raspberry Pi-based OS. -->
 
 #### User Stats
 ![](https://raw.githubusercontent.com/m-roberts/github-stats/master/generated/overview.svg) ![](https://raw.githubusercontent.com/m-roberts/github-stats/master/generated/languages.svg)
